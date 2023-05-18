@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Welcome to my portfolio! I am Anass, a Computer Science graduate student with a passion for software development and data analysis.
 <!--
 **beanass/beanass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
