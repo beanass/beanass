@@ -57,10 +57,6 @@ Welcome to my portfolio! I am Anass, an aspiring computer scientist with a stron
 <br />
 <br />
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beanass&layout=compact&hide=html" alt="beanass" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beanass&show_icons=true" alt="beanass" /></p>
 <!--
 **beanass/beanass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
