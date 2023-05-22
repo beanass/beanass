@@ -8,41 +8,32 @@ Welcome to my portfolio! I am Anass, an aspiring computer scientist with a stron
 
 
 ### Languages and Tools:
-
+ 
 <br />
-<a href="">
-  <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-</a> 
-<a href="">
-  <img align="left" alt="python-original" width="30px" src="https://icongr.am/devicon/python-original.svg?size=128&color=000000" />
-</a>
-<a href="">
-  <img align="left" alt="dot-net-original-wordmark" width="26px" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=000000" />
-</a>  
-<a href="">
-  <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-</a>      
-<a href="">
-  <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-</a>
 <a href="https://www.docker.com/get-started">
-  <img align="left" alt="docker-original" width="36px" src="https://icongr.am/devicon/docker-original.svg?size=128&color=000000" />
-</a>
-<a href="">
-  <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 </a>
 <a href="">
   <img align="left" alt="pytorch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
- </a>
-<a href="">
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 </a>
 <a href="">
-  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+</a>
 </a>
 <a href="">
-  <img align="left" alt="linux-original" width="26px" src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000"] />
+  <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 </a>
+</a>
+<a href="">
+  <img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+</a>
+</a>
+<a href="">
+  <img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+</a>
+</a>
+<a href="">
+  <img align="left" alt="windows" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
 </a>
 </a>
 <a href="">
@@ -53,9 +44,11 @@ Welcome to my portfolio! I am Anass, an aspiring computer scientist with a stron
   <img align="left" alt="Latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
 </a>
 <br />
-<br />
-<br />
-<br />
+<br/>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beanass&layout=compact&hide=html" alt="beanass" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=beanass&show_icons=true" alt="beanass" /></p>
 
 <!--
 **beanass/beanass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
