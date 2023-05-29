@@ -10,14 +10,14 @@ Welcome to my portfolio! I am Anass, an aspiring computer scientist with a stron
 ### Languages and Tools:
  
 <br />
-<a href="https://www.docker.com/get-started">
-  <img align="left" alt="docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<a href="">
+  <img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 </a>
 <a href="">
-  <img align="left" alt="pytorch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
+  <img align="left" alt="cplusplus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 </a>
 <a href="">
-  <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+  <img align="left" alt="Csharp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
 </a>
 </a>
 <a href="">
@@ -42,6 +42,12 @@ Welcome to my portfolio! I am Anass, an aspiring computer scientist with a stron
 </a>
 <a href="https://de.wikipedia.org/wiki/LaTeX">
   <img align="left" alt="Latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
+</a>
+<a href="https://www.docker.com/get-started">
+  <img align="left" alt="docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+</a>
+<a href="https://pytorch.org/">
+  <img align="left" alt="pytorch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
 </a>
 <br />
 <br/>
